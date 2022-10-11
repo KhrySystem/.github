@@ -1,7 +1,7 @@
 # KhrySystem Computing
 
 ## About
-  KhrySystem is a 3D game development company in Ohio, USA. We focus on providing concise, simple APIs to do complex things. Our current focus is [DragonEngine](https://github.com/KhrySystem/Dragon), A C++ Vulkan Game Engine, able to be extended to many other facets of the computer graphics world, like VR, AR, XR, computer vision, physics simulations, and other topics as they come to publicity in computing. 
+  KhrySystem is a 3D game development company located in Ohio, USA. We focus on providing concise, simple APIs to do complex things. Our current focus is [DragonEngine](https://github.com/KhrySystem/Dragon), A C++ Vulkan Game Engine, able to be extended to many other facets of the computer graphics world, like VR, AR, XR, computer vision, physics simulations, and other topics as they come to publicity in computing. 
 
 ## Contributing to Repositories
 
