@@ -18,13 +18,13 @@ Please note the main branch of our projects is typically the heavy development b
 
 ### Backend Libraries Required for Our SDKs
 
-[Boost](https://boost.org) ([github](https://github.com/boostlibs/boost)) is one of the most versatile C++ projects you will ever see. Several submodules are required for various libraries.
- The [Khronos Group](https://khronos.org) ([github](https://github.com/KhronosGroup)) has many repositories required for Dragon and other libraries we have in development. 
+  - [Boost](https://boost.org) ([github](https://github.com/boostlibs/boost)) is one of the most versatile C++ projects you will ever see. Several submodules are required for various libraries.
+  - The [Khronos Group](https://khronos.org) ([github](https://github.com/KhronosGroup)) has many repositories required for Dragon and other libraries we have in development. 
   - [Vulkan SDK](https://vulkan.lunarg.com) ([github](https://github.com/KhronosGroup/Vulkan-Headers)) is the graphics ABI behind Dragon. 
   - [CMake](https://cmake.org) is required when building any of our projects from source, or when using our FindDragon.cmake module. 
   
 ### Recommended Libraries for extended functionality
+
   - [OpenCL](https://www.khronos.org/opencl) ([github](https://github.com/KhronosGroup/OpenCL-Headers)) is the computational mastermind behind Dragon's Thunderbreath extension. Extremely useful for high performance parallel computes.
-  - [OpenXR](https://www.khronos.org/openxr) ([github](https://github.com/KhronosGroup/OpenXR-SDK)) is a VR and AR library required for Dragon's Firebreath library. Use only if you want to have a high-power VR or AR app.
   - [Doxygen](https://doxygen.nl) is a documentation builder that is needed when building certain projects from source. 
   
